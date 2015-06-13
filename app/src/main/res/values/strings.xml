@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Grimório</string>
+    <string name="title_section0">★ Favoritos</string>
+    <string name="title_section1">Espaço</string>
+    <string name="title_section2">Espírito</string>
+    <string name="title_section3">Forças</string>
+    <string name="title_section4">Matéria</string>
+    <string name="title_section5">Mente</string>
+    <string name="title_section6">Morte</string>
+    <string name="title_section7">Primórdio</string>
+    <string name="title_section8">Sorte</string>
+    <string name="title_section9">Tempo</string>
+    <string name="title_section10">Vida</string>
+    <string name="action_settings">Configurações</string>
+    <string name="title_activity_detalhe_magia">Detalhes da Magia</string>
+    <string name="mag_pratica">Prática:</string>
+    <string name="mag_acao">Ação:</string>
+    <string name="mag_duracao">Duração:</string>
+    <string name="mag_aspecto">Aspecto:</string>
+    <string name="mag_custo">Custo:</string>
+    <string name="mag_parada">Parada de dados:</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="help">Ajuda</string>
+    <string name="bookmark">Favorito</string>
+    <string name="search">Buscar</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
